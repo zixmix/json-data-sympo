@@ -1,4 +1,5 @@
 [
+    "locations":{    
         {
             "id": "1",
             "name": "Ajax",
@@ -19,4 +20,5 @@
             "facebook": "https://www.facebook.com/SymposiumCafeAjax/",
             "yelp": "https://www.yelp.ca/biz/symposium-caf%C3%A9-restaurant-and-lounge-ajax-ajax"
         }
+}
     ]
