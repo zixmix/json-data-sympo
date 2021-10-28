@@ -1,7 +1,7 @@
 {
     "locations":[    
         {
-            "id": "1",
+            "id": 1,
             "name": "Ajax",
             "slug": "ajax",
             "address": "338 Rossland Road East, Ajax, Ontario L1Z 0K4",
@@ -11,7 +11,7 @@
             "yelp": "https://www.yelp.ca/biz/symposium-caf%C3%A9-restaurant-and-lounge-ajax-ajax"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "Allison",
             "slug": "ajax",
             "address": "338 Rossland Road East, Ajax, Ontario L1Z 0K4",
