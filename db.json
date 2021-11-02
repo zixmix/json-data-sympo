@@ -9,6 +9,16 @@
             "email": "symposium.ajax@symposiumcafe.com",
             "facebook": "https://www.facebook.com/SymposiumCafeAjax/",
             "yelp": "https://www.yelp.ca/biz/symposium-caf%C3%A9-restaurant-and-lounge-ajax-ajax",
+		"skip":"https://www.skipthedishes.com/symposium-ajax",
+		"ubereat":"https://www.ubereats.com/ca/store/symposium-cafe-restaurant-ajax/6SwPLiANR3i8vGomu0Jleg",
+		"doordash":"https://www.doordash.com/en-CA/store/symposium-cafe-restaurant-ajax-1019563/",
+		"map":"https://www.google.com/maps?ll=43.884236,-79.018141&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=15317894478479211205",
+		"insta":"https://www.instagram.com/symposiumcafe_restaurantlounge/",
+		"twiter":"https://twitter.com/CafeSymposium",
+		"yelp":"https://www.yelp.ca/biz/symposium-cafe-restaurant-and-lounge-ajax-2",
+		"trip":"https://www.tripadvisor.ca/Restaurant_Review-g499247-d4607684-Reviews-Symposium_Cafe_Restaurant_Lounge-Ajax_Ontario.html",
+		"zomato":"https://www.zomato.com/toronto/symposium-cafe-restaurant-lounge-ajax-gta",
+		
              "content":{
 			"title": "Ajax Ontario restaurants near me, breakfast, food, desserts!",
 			"subtitle":"SYMPOSIUM CAFE & RESTAURANT SPECIALTIES, HIGHLIGHTS, AND FEATURES (RESTAURANT AJAX):",	
