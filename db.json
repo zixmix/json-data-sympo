@@ -7,7 +7,17 @@
             "address": "338 Rossland Road East, Ajax, Ontario L1Z 0K4",
             "phone": "905-683-3232",
             "email": "symposium.ajax@symposiumcafe.com",
-            "facebook": "https://www.facebook.com/SymposiumCafeAjax/",          
+            "facebook": "https://www.facebook.com/SymposiumCafeAjax/",
+		"delivery": [
+			{ "link" : "https://www.skipthedishes.com/symposium-ajax",
+				"image": "Skip"
+			},
+			{ "link" : "https://www.ubereats.com/ca/store/symposium-cafe-restaurant-ajax/6SwPLiANR3i8vGomu0Jleg",
+				"image": "Door"
+			}
+			
+			],
+		
 		"skip":"https://www.skipthedishes.com/symposium-ajax",
 		"ubereat":"https://www.ubereats.com/ca/store/symposium-cafe-restaurant-ajax/6SwPLiANR3i8vGomu0Jleg",
 		"doordash":"https://www.doordash.com/en-CA/store/symposium-cafe-restaurant-ajax-1019563/",
