@@ -9,10 +9,11 @@
             "email": "symposium.ajax@symposiumcafe.com",
             "facebook": "https://www.facebook.com/SymposiumCafeAjax/",
 		"delivery":[
-			{
-				"skip":"delivery"
-			}
-			{
+			"skip":{
+				"skip":"delivery",
+				"glo":"delivery"
+			},
+			"door":{
 				"skip":"delivery2"
 			}
 		]
