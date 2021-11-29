@@ -10,10 +10,10 @@
             "facebook": "https://www.facebook.com/SymposiumCafeAjax/",
 		"delivery": [
 			{ "link" : "https://www.skipthedishes.com/symposium-ajax",
-				"image": "Skip"
+				"image": Skip
 			},
 			{ "link" : "https://www.ubereats.com/ca/store/symposium-cafe-restaurant-ajax/6SwPLiANR3i8vGomu0Jleg",
-				"image": "Door"
+				"image": Door
 			}
 			
 			],
