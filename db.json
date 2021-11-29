@@ -23,6 +23,10 @@
 		"zomato":"https://www.zomato.com/toronto/symposium-cafe-restaurant-lounge-ajax-gta",
 		
              "content":{
+		     	"image":{
+				"title":"radi jebi se"
+				"title2":"radi jebi se2"
+			},
 			"title": "Ajax Ontario restaurants near me, breakfast, food, desserts!",
 			"subtitle":"SYMPOSIUM CAFE & RESTAURANT SPECIALTIES, HIGHLIGHTS, AND FEATURES (RESTAURANT AJAX):",	
 			"name":"Ajax Ontario",
@@ -53,6 +57,10 @@
 		"trip":"https://www.tripadvisor.ca/Restaurant_Review-g182201-d12961671-Reviews-Symposium_Cafe_Restaurant_Lounge-Alliston_New_Tecumseth_Ontario.html",
 		"zomato":"https://www.zomato.com/alliston-on/symposium-cafe-restaurant-lounge-alliston",
 		"content":{
+			"image":{
+				"title":"radi jebi se"
+				"title2":"radi jebi se2"
+			},
 			"title": "Alliston Ontario breakfast, desserts, food restaurant near me!",
 			"subtitle":"SYMPOSIUM CAFE & RESTAURANT SPECIALTIES, HIGHLIGHTS, AND FEATURES (RESTAURANT ALLISTON):",	
 			"name":"Alliston Ontario",
