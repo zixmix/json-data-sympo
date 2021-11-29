@@ -8,15 +8,7 @@
             "phone": "905-683-3232",
             "email": "symposium.ajax@symposiumcafe.com",
             "facebook": "https://www.facebook.com/SymposiumCafeAjax/",
-		"delivery":[
-			"skip":{
-				"skip":"delivery",
-				"glo":"delivery"
-			},
-			"door":{
-				"skip":"delivery2"
-			}
-		]
+		"delivery":"viz",
 		"skip":"https://www.skipthedishes.com/symposium-ajax",
 		"ubereat":"https://www.ubereats.com/ca/store/symposium-cafe-restaurant-ajax/6SwPLiANR3i8vGomu0Jleg",
 		"doordash":"https://www.doordash.com/en-CA/store/symposium-cafe-restaurant-ajax-1019563/",
