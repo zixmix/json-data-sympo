@@ -45,6 +45,10 @@
 		"map":"https://www.google.com/maps?ll=43.884236,-79.018141&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=15317894478479211205",
 		"insta":"https://www.instagram.com/symposiumcafe_restaurantlounge/",
 		"twiter":"https://twitter.com/CafeSymposium",
+		"delivery":{
+			"skip": "Ajax Ontario restaurants near me, breakfast, food, desserts!",
+			"image":"SYMPOSIUM CAFE & RESTAURANT SPECIALTIES, HIGHLIGHTS, AND FEATURES (RESTAURANT AJAX):"	
+			 },
 		"yelp":"https://www.yelp.ca/biz/symposium-cafe-restaurant-and-lounge-alliston",
 		"trip":"https://www.tripadvisor.ca/Restaurant_Review-g182201-d12961671-Reviews-Symposium_Cafe_Restaurant_Lounge-Alliston_New_Tecumseth_Ontario.html",
 		"zomato":"https://www.zomato.com/alliston-on/symposium-cafe-restaurant-lounge-alliston",
